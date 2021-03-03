@@ -149,6 +149,7 @@
                         <constraints>
                             <constraint firstItem="fq6-KK-b1h" firstAttribute="leading" secondItem="Xo7-Lc-7D1" secondAttribute="leading" constant="10" id="12c-Bj-afh"/>
                             <constraint firstItem="Gaa-kF-xD3" firstAttribute="leading" secondItem="Xo7-Lc-7D1" secondAttribute="leading" constant="10" id="6kI-qq-nNa"/>
+                            <constraint firstItem="Xo7-Lc-7D1" firstAttribute="bottom" secondItem="TWb-jX-N1k" secondAttribute="bottom" constant="10" id="BsO-jt-EB5"/>
                             <constraint firstItem="qcs-Hh-KuS" firstAttribute="leading" secondItem="Xo7-Lc-7D1" secondAttribute="leading" constant="10" id="D3Z-Nv-DZS"/>
                             <constraint firstItem="oc2-ip-RNv" firstAttribute="top" secondItem="KrD-vJ-LHL" secondAttribute="bottom" constant="10" id="G0g-b5-Jte"/>
                             <constraint firstItem="Gaa-kF-xD3" firstAttribute="top" secondItem="m9E-ri-vo7" secondAttribute="bottom" constant="10" id="GTw-TR-skc"/>
